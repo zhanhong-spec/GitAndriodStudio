@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.i("MY TAG","This is also commit msg.");
-        Log.i("MY TAG","This is also commit msg.");
+
+        Log.i("NOT YOUR TAG","Maybe just another commit msg");
     }
 }
